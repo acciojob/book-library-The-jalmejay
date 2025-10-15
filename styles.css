@@ -41,21 +41,22 @@ body {
  
 }
 
-.book-details h2 {
+.book-details h2 ,{
   margin: 0;
-	 text-align:left;
+text-align:left;
   font-size: 18px;
   font-weight: bold;
+	color:rgb(119, 119, 119);
 }
 
 .book-details p {
   color: #777777; 
-	text-align:left;
+  text-align:left;
   margin: 6px 0 12px;
 }
 
 .price {
-  background-color: #2ecc71;
+  background-color: rgb(46, 204, 113);
   width:100%;
   color: white;
   padding: 8px;
